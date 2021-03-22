@@ -57,10 +57,10 @@ router.put('/:id', (req, res) => {
     }
   )
   .then((updatedTag) =>{
-    res.json(updatedTag);
+    res.status(200).json(updatedTag);
   })
   .catch((err) => {
-    res.json(err);
+    res.status(500).json(err);
   })
 });
 
