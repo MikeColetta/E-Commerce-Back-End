@@ -19,9 +19,9 @@ I created finished the back end database and server of an e-commerce website. I 
     
 ## Usage
 
-![Screenshot1](Images/Screenshot1.jpg)
-![Screenshot2](Images/Screenshot2.jpg)
-![Screenshot3](Images/Screenshot3.jpg)
+![Screenshot1](./Images/Screenshot1.jpg)
+![Screenshot2](./Images/Screenshot2.jpg)
+![Screenshot3](./Images/Screenshot3.jpg)
 
 
 ## License
